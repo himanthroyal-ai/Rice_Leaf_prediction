@@ -1,11 +1,7 @@
-# Rice_Leaf_prediction
-Image based rice leaf disease detection using deep learning for fast and accurate crop diagnosis.
-
-
 # Rice Leaf Disease Prediction – Deep Learning Project
 
 Welcome to the **Rice Leaf Disease Prediction** repository!
-This project demonstrates a complete deep-learning pipeline that identifies rice leaf diseases from images. Inspired by your earlier project structure , this repository highlights practical machine learning and image classification skills used in real-world agriculture applications.
+This project demonstrates a complete deep-learning pipeline that identifies rice leaf diseases from images. Inspired by your earlier project structure , this repository highlights practical machine learning and image classification skills used in real-world agriculture applications.Image based rice leaf disease detection using deep learning for fast and accurate crop diagnosis.
 
 
 # Project Requirements
@@ -74,5 +70,4 @@ I’m passionate about AI, Machine Learning, and building real-world deep-learni
 
 
 
-Just tell me!
 
